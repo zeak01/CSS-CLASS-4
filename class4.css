@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&family=Sekuya&display=swap');*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1{
+      font-family: "Sekuya", system-ui;
+}
+p{
+      font-family: "Roboto", sans-serif;
+}
+
+ion-icon{
+  font-size: 64px;
+}
